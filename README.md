@@ -9,36 +9,14 @@ A modern, responsive lead management dashboard built for Gettap.co interview ass
 ![Zustand](https://img.shields.io/badge/Zustand-5.0.8-000?logo=zustand)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0.0.4-000?logo=react)
 
-## ✨ Features
-
-- 📊 **Lead Management** - View and manage leads from JSONPlaceholder API
-- 🔍 **Search & Filter** - Real-time search and tag-based filtering
-- 📱 **Responsive Design** - Optimized for desktop and mobile
-- 📤 **CSV Export** - Export filtered data to CSV files
-- 🎨 **Modern UI** - Built with shadcn/ui and Tailwind CSS
-- ⚡ **Fast Performance** - Built with Vite and React 19
-- 🏪 **State Management** - Zustand for efficient state handling
-
-## 🛠️ Tech Stack
-
-| Technology       | Purpose                 |
-| ---------------- | ----------------------- |
-| **React 19**     | UI Framework            |
-| **TypeScript**   | Type Safety             |
-| **Vite**         | Build Tool & Dev Server |
-| **Tailwind CSS** | Styling & Design System |
-| **shadcn/ui**    | UI Components           |
-| **Zustand**      | State Management        |
-| **Lucide React** | Icons                   |
 
 ## 📦 Installation
 
 1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/your-username/tap-task.git
-   cd tap-task
-   ```
+```bash
+git clone https://github.com/your-username/tap-task.git
+cd tap-task
+```
 
 2. **Install dependencies**
 
@@ -64,7 +42,33 @@ npm run build
 npm run preview
 ```
 
+
+## ✨ Features
+
+- 📊 **Lead Management** - View and manage leads from JSONPlaceholder API
+- 🔍 **Search & Filter** - Real-time search and tag-based filtering
+- 📱 **Responsive Design** - Optimized for desktop and mobile
+- 📤 **CSV Export** - Export filtered data to CSV files
+- 🎨 **Modern UI** - Built with shadcn/ui and Tailwind CSS
+- ⚡ **Fast Performance** - Built with Vite and React 19
+- 🏪 **State Management** - Zustand for efficient state handling
+
+
+## 🛠️ Tech Stack
+
+| Technology       | Purpose                 |
+| ---------------- | ----------------------- |
+| **React 19**     | UI Framework            |
+| **TypeScript**   | Type Safety             |
+| **Vite**         | Build Tool & Dev Server |
+| **Tailwind CSS** | Styling & Design System |
+| **shadcn/ui**    | UI Components           |
+| **Zustand**      | State Management        |
+| **Lucide React** | Icons                   |
+
+
 ### 📁 Project Structure
+
 ```
 .
 |
